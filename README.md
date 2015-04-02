@@ -4,17 +4,17 @@ Port Design
 goal: have a portfolio constructed by Friday night (in 8 hours)
 
 2 hours tuesday [planning]
-2 hours wednesday [homepage wireframe --> coded]
-2 hours thursday [process pages designed --> coded]
-2 hours friday [QA]
-22
+2 hours wednesday [homepage wireframe]
+2 hours thursday [code homepage wireframe --> code homepage]
+2 hours friday [process pages designed --> coded]
+2 hour friday [QA]
 >MIT's
 ------
 I show my work or experience
 the process of creation is communicated
 about me 
 connect
-mobile-first
+responsive 
 
 
 
@@ -103,3 +103,4 @@ Hi!  I was a crazy Bard student who loves design thinking.  Being a student at N
 
 tuesday: MIT's, QA, goal
 wed: about me planning, MIT Materializations, Wireframe
+Thurs: revise plan (remove mobile first, add QA time), 
