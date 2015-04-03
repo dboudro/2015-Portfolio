@@ -15,29 +15,95 @@
  * CH05 - Content & Media
  * CH06 - Footer
 **/
+
     
      /* * * * * * * CH01 - Resets * * * * * * */
-    * {
-        margin: none;
-        font-size: 10px;
+* {
+    margin: none;
     }
     
     /* * * * * * * CH02 - Typography * * * * * * */
-    
+    @font-face {
+            font-family: Helvetica Bold;
+            src: url("HelvNeueBoldforIBM.otf");
+    }
+      @font-face {
+            font-family: Helvetica Medium;
+            src: url("HelvNeueMediumforIBM.otf");
+    }
+      @font-face {
+            font-family: Helvetica Roman;
+            src: url("HelvNeueRomanforIBM.otf");
+    }
+      @font-face {
+            font-family: Helvetica Light;
+            src: url("HelvNeueLightforIBM.otf");
+    }
     
     /*  CH03 -  Document Setup & Visual Language */
     body {
         background-color: black;
+        color: white;
+    }
+    h1 {
+        font-family: Helvetica Bold;
+        font-size: 3em;
+        display: table;
+        margin: 0 auto;
+         border: 0px solid red;
+    }
+       h2 {
+        font-family: Helvetica Roman;
+        font-size: 1.2em;
+        display: table;
+        margin: 0 auto;
+           border: 0px solid red;
+    }
+    .red {
+        color: #FFA5B4;
     }
     .green {
-        color: green;
+        color: #C8F08F;
     }
+    .blue {
+        color: #C0E6FF;
+    }
+    /* * * * * * * CH04 - Header * * * * * * */
+    .about-me {
+        font-family: Helvetica Light;
+        text-align: center;
+        margin: 10% 5%;
+    }
+/* * * * * * * CH05 - Body * * * * * * */  
+    ul {
+        border: 1px solid green;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    li {
+    list-style: none;
+    float: left;
+    }
+    .team-item {
+        border: 1px solid white;
+        list-style: none;
+        width: 100px;
+        height: 100px;
     </style>
     <body> 
-    <h1> Dylan Boudro</h1>
-        <p>Hi!  I'm Dylan and the best way to describe myself is this.
-            my two schools, align with my two passions, which align with my two professions.  At Bard college, I studied human consciousness via psychology, buddhism, and meditation.  I use my knowledge from these fields  to be an empathetic designer.  
-            Now, at NEU, I'm learning how to utilize design thinking and FED by studying CS & Digital art.  I use my knowledge from my dual major to materialize concepts into solutions that solve user pain.  
+        <h1>Dylan Boudro</h1>
+        <p class="about-me"> &#9;  Hi!  I was a crazy Bard student in love with critical thinking.  Now as a CS &amp; Digital Art student at Northeastern, I'm learning to use FED to materialize powerful concepts into solutions that solve user pain points.
+        </p>
+        
+        <h2>Teams I've worked on</h2>
+        <ul>
+        <li><div class="team-item"></div></li>
+        <li><div class="team-item"></div></li>
+        <li><div class="team-item"></div></li>
+        <li><div class="team-item"></div></li>
+        <li><div class="team-item"></div></li>
+        <li><div class="team-item"></div></li>
+        </ul>
     </body>
     
 </html>

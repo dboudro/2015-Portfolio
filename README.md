@@ -104,3 +104,8 @@ Hi!  I was a crazy Bard student who loves design thinking.  Being a student at N
 tuesday: MIT's, QA, goal
 wed: about me planning, MIT Materializations, Wireframe
 Thurs: revise plan (remove mobile first, add QA time), 
+
+>Future
+
+o instead of responsive... add full mobile version
+o replace CSS with Sass
