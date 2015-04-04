@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Dylan Boudro</title>
-    
+    <title>Dylan Boudro</title>
     </head>
 <style>
     
@@ -17,12 +16,11 @@
 **/
 
     
-     /* * * * * * * CH01 - Resets * * * * * * */
+    /*/CH1//////////////////////////// RESETS ///////////////////////////////*/ 
 * {
     margin: none;
     }
-    
-    /* * * * * * * CH02 - Typography * * * * * * */
+    /*/CH2////////////////////////// TYPOGRAPHY /////////////////////////////*/ 
     @font-face {
             font-family: Helvetica Bold;
             src: url("HelvNeueBoldforIBM.otf");
@@ -40,7 +38,7 @@
             src: url("HelvNeueLightforIBM.otf");
     }
     
-    /*  CH03 -  Document Setup & Visual Language */
+    /*/CH3////////////////////// GLOBALS & VISUAL LANGUAGE ////////////////////*/
     body {
         background-color: black;
         color: white;
@@ -50,14 +48,14 @@
         font-size: 3em;
         display: table;
         margin: 0 auto;
-         border: 0px solid red;
+        border: 0px solid red;
     }
        h2 {
         font-family: Helvetica Roman;
         font-size: 1.2em;
         display: table;
         margin: 0 auto;
-           border: 0px solid red;
+        border: 0px solid red;
     }
     li {
         list-style: none;
@@ -72,97 +70,16 @@
     .blue {
         color: #C0E6FF;
     }
-    /* * * * * * * CH04 - Header * * * * * * */
-    .about-me {
-        font-family: Helvetica Light;
-        text-align: center;
-        margin: 10% 5%;
-    }
-/* * * * * * * CH05 - Body * * * * * * */  
-    #team-list {
-        border: 2px solid green;
-        margin: 0 auto;
-        display: table;
-    }
-    #team-list li {
-    list-style: none;
-    float: left;
-    }
-    .team-item {
-        border: 1px solid white;
-        list-style: none;
-        width: 100px;
-        height: 100px;
-    }
-    #my-work {
-        margin: 7% auto;
-    }
-    #work-container {
-        width: 90%;
-        border: 0px solid red;
-        margin: auto;
-    }
-    .work-row-container {
-        border: 0px solid aquamarine;
-        width: 520px;
-        height: 160px;
-        margin: auto;
-    }
-    .work-item-container {
-        width: 250px;
-        height: 150px;
-        border: 1px solid white;
-        float: left;
-        margin: 2px;
-     
-     }
-    #social-container {
-        border: 1px solid white;
-        width: 104px;
-        margin: 0 auto;
-    }
-       
-    
+    /*/CH4/////////////////////////// ABOUT ME //////////////////////////////*/
+    /*/CH5///////////////////////// WHERE I WORK ////////////////////////////*/
+    /*/CH6/////////////////////////// MY WORK ///////////////////////////////*/    
     </style>
     <body> 
         <h1>Dylan Boudro</h1>
-        <p class="about-me"> &#9;  Hi!  I was a crazy Bard student in love with critical thinking.  Now as a CS &amp; Digital Art student at Northeastern, I'm learning to use FED to materialize powerful concepts into solutions that solve user pain points.
+        <p class="about-me">I'm Dylan Boudro, I'm a developer and designer who strives to capture the essence of a user problem &amp; materialize it into a product.
         </p>
+            
         
-        <h2>Teams I've worked on</h2>
-        <ul id="team-list">
-        <li><div class="team-item"></div></li>
-        <li><div class="team-item"></div></li>
-        <li><div class="team-item"></div></li>
-        <li><div class="team-item"></div></li>
-        <li><div class="team-item"></div></li>
-        <li><div class="team-item"></div></li>
-        </ul>
         
-        <h2 id="my-work"> My Work</h2>
-        
-    <div id="work-container">
-        <!--- ROW 1 -->
-        <div class="work-row-container">
-        <div class="work-item-container">1 </div>
-            <div class="work-item-container">2</div>
-        </div>
-            <!--- ROW 3 -->
-        <div class="work-row-container">
-        <div class="work-item-container">3 </div>
-            <div class="work-item-container">4</div>
-        </div>
-            <!--- ROW 2 -->
-        <div class="work-row-container">
-        <div class="work-item-container">5 </div>
-            <div class="work-item-container">6</div>
-        </div>
-
-          <div id="social-container">
-             <img src="http://placehold.it/32x32">
-             <img src="http://placehold.it/32x32">
-             <img src="http://placehold.it/32x32">
-        </div>
     </body>
-    
 </html>
