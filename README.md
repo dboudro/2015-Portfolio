@@ -1,59 +1,65 @@
 Port Design
 ===========
 
-goal: have a portfolio constructed by Friday night (in 8 hours)
+Project Management goal: Design my portfolio in 1 weeks time.
 
-2 hours tuesday [planning]
-2 hours wednesday [homepage wireframe]
-2 hours thursday [code homepage wireframe --> code homepage]
-2 hours friday [process pages designed --> coded]
-2 hour friday [QA]
->MIT's
-------
-I show my work or experience
-the process of creation is communicated
-about me 
-connect
+User centric goal:
+1. A recruiter can quickly & enjoyably learn about my professional work.
+
+
+future goals:
+2. A designer or coder can immediately understand the value of the way I presented the essence of my work/personal brand.
+
+
+code: 
+
+problem statement
+--> Most important content --> most important features
+
+
+##Schedule
+
+2 hours tuesday [goals, audiences,  content]
+2 hours wednesday [design wireframe]
+2 hours thursday [wireframe, write intro]
+2 hours friday [grid analysis, code wireframe]
+2 hour saturday [brand analysis, visual design]
+
+##Most Important Content
+
+-I show my work or experience
+-the process of creation is communicated
+-about me (personal brand) 
+-connect
+
+which leads to... features
+
+##Features
+
+short intro               
+work pieces                
+connect icons @ bottom    
+process pages  
+
+##Branding
+
+wordcloud: 
+design & code, tech, sleek, info, *concrete, data is beautiful, polished, flat, straight, beautiful, nerdy, 
+
+
+##quality assurance
+
 responsive 
-
-
-
---> 
->MIT Materializations
-
-short intro                 - responsive
-work pieces                 - responsive
-Teams I've worked on        - responsive
-
-connect icons @ bottom      - responsive
-
-
-work pages                  - responsive
-
->branding
-
--ghost buttons
-
-
->quality assurance
-
 good UI (grid / layout fundamentals)
-responsive
-good UX
-good IA
-clear branding
-
-
->process pages
-
-http://robin-noguier.com/#/draft-camp
+good UX (intuitive interactions)
+branding
 
 
 
-                Specific Projects
-------------------------------------------------------------------------------------------------------
-Visual DB
-========
+##Process Page Notes
+
+###Visual DB
+
 
 >Process
 
@@ -64,48 +70,43 @@ personas: newbie, pro
 >technologies
 
 
-IBM Maelstrom
-=============
+###IBM Maelstrom
+
 
 >microproject
     -Design Thinking, research & strategy
 >sponsor-project
     -Interdisciplinary collaboration, design thinking, development
     
-SVG animation
-=============
+###SVG Animation
 
 
-HSL Colorscale
-==============
+###HSL Colorscale
 
-Staples
-=======
+tag: development
 
-                        About Me
-------------------------------------------------------------------------------------------------------
-(empathetic) designer and (dedicated) developer
+###Staples
+
+
+## About Me
+design & code
+
+empathetic designer & dedicated developer?
 student at NEU
+FeD @ IBM
 design thinking and FeD
-  x team driven, x design & code, x NEU IBM
-  
-  
-Hi!  I was a crazy Bard student who loves design thinking.  Being a student at NEU, I'm learning how to use FED to materialize powerful abstract concepts into solutions that solve user pain points.
+  team driven, x design & code, x NEU IBM
+user focused design
 
-
->ideas:
+## Ideas
 
 -tags for projects (Front Dev, design research, etc)
 -highlights for key words in about me
--theaterJS title dylan boudro dboody funkmaster dyl dylonious monk dyl pickle DJ Boody
 
->actual Scheduling
 
-tuesday: MIT's, QA, goal
-wed: about me planning, MIT Materializations, Wireframe
-Thurs: revise plan (remove mobile first, add QA time), 
 
->Future
-
-o instead of responsive... add full mobile version
+#Future 
+*The following had to be sacrificed because of the time constraint*
+o instead of responsive... full mobile version
 o replace CSS with Sass
+o more original concept to communicate my brand (value)
