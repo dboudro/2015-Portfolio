@@ -59,7 +59,7 @@ design & code, tech, sleek, info, *concrete, data is beautiful, polished, flat, 
 * good UI (grid / layout fundamentals)
 * good UX (intuitive interactions)
 * visual design (branding)
-
+* Information Arch
 
 #Site Content
 
@@ -112,6 +112,11 @@ tag: development
 ## About Me
 design & code
 
+
+design mission satement
+-bard -neu -ibm
+
+
 empathetic designer & dedicated developer?
 student at NEU
 FeD @ IBM
@@ -131,3 +136,4 @@ user focused design
 o instead of responsive... full mobile version
 o replace CSS with Sass
 o more original concept to communicate my brand (value)
+o design process on homepage
