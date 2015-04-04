@@ -1,36 +1,40 @@
-Port Design
-===========
-
-Project Management goal: Design my portfolio in 1 weeks time.
-
-User centric goal:
-1. A recruiter can quickly & enjoyably learn about my professional work.
+#Design Process
 
 
-future goals:
-2. A designer or coder can immediately understand the value of the way I presented the essence of my work/personal brand.
+*These are my process notes for developing my portfolio.*
+
+----------- 
 
 
-code: 
 
-problem statement
---> Most important content --> most important features
 
+##Goals
+*Project Management*: Design my portfolio in 1 week.
+
+*User focused*: A recruiter can quickly & enjoyably learn about my professional work.
+    
+
+
+*future user goals* 
+2. A user interested can spend lots of time learning about my design process.
+
+3. A designer or coder can immediately understand the value of the way I presented the essence of my work/personal brand.
 
 ##Schedule
 
-2 hours tuesday [goals, audiences,  content]
-2 hours wednesday [design wireframe]
-2 hours thursday [wireframe, write intro]
-2 hours friday [grid analysis, code wireframe]
-2 hour saturday [brand analysis, visual design]
+* **Tuesday** *2h* [goals, audiences,  content]
+* **Wednesday** *2h* [design wireframe]
+* **Thursday** *2h* [wireframe, write about me's]
+* **Friday** *2h* [step back:grid analysis, code wireframe]
+* **Saturday** *8h* [code new wireframe, brand analysis, visual design, cleanup design, refactor code, interaction]
+
 
 ##Most Important Content
 
--I show my work or experience
--the process of creation is communicated
--about me (personal brand) 
--connect
+* I show my work or experience 
+* the process of creation is communicated
+* about me (personal brand) 
+* social connect
 
 which leads to... features
 
@@ -44,19 +48,36 @@ process pages
 ##Branding
 
 wordcloud: 
+
+```
 design & code, tech, sleek, info, *concrete, data is beautiful, polished, flat, straight, beautiful, nerdy, 
+```
+
+##Quality assurance
+
+* responsive 
+* good UI (grid / layout fundamentals)
+* good UX (intuitive interactions)
+* visual design (branding)
 
 
-##quality assurance
-
-responsive 
-good UI (grid / layout fundamentals)
-good UX (intuitive interactions)
-branding
+#Site Content
 
 
+*Jotting down specific content I feel is valuable to include.*
 
-##Process Page Notes
+----------- 
+
+## full project-list
+* hsl color scale
+* svg animation
+* visualDB
+* HackTV
+* Baskets.io
+* IBM
+* staples
+
+##Process Pages
 
 ###Visual DB
 
@@ -105,7 +126,7 @@ user focused design
 
 
 
-#Future 
+#Future Versions
 *The following had to be sacrificed because of the time constraint*
 o instead of responsive... full mobile version
 o replace CSS with Sass
