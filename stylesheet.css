@@ -26,6 +26,23 @@
         font-family: Helvetica Light;
         src: url("HelvNeueLightforIBM.otf");
     }
+    @font-face {
+        font-family: Droid Sans Bold;
+        src: url("DroidSans-Bold.ttf");
+    }
+    @font-face {
+        font-family: Droid Sans;
+        src: url("DroidSans.ttf");
+    }
+
+
+/*
+For easy font-adding
+    @font-face {
+        font-family:;
+        src: url("");
+    }
+*/
     
     /*/CH2////////////////////// GLOBALS & VISUAL LANGUAGE ////////////////////*/
 /* Fill in with abstractions */
@@ -79,7 +96,7 @@
         border: 0px solid yellow;
     }
     .where-list li {
-        font-family: Helvetica Roman;
+        font-family: Droid Sans Bold;
         display: inline-block;
         list-style: none;
         float: left;
@@ -89,15 +106,13 @@
         margin-top: 3vh;
         padding-top: 1.1vw;
         padding-bottom: 1vw;
-
-
         color: #5AAAFA;
         border: 1px solid #5AAAFA;
 
     }
     .where-list li:hover {
         background-color: #5AAAFA;
-        color: black;
+        color: white;
         cursor: pointer;
     }
     /* coloring for work links */
