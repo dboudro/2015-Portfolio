@@ -12,39 +12,39 @@
     /*/CH1////////////////////////// TYPOGRAPHY /////////////////////////////*/ 
     @font-face {
         font-family: Helvetica Bold;
-         src: url("HelvNeueBoldforIBM.otf");
+         src: url("fonts/HelvNeueBoldforIBM.otf");
     }
     @font-face {
         font-family: Helvetica Medium;
-        src: url("HelvNeueMediumforIBM.otf");
+        src: url("fonts/HelvNeueMediumforIBM.otf");
     }
     @font-face {
         font-family: Helvetica Roman;
-        src: url("HelvNeueRomanforIBM.otf");
+        src: url("fonts/HelvNeueRomanforIBM.otf");
     }
     @font-face {
         font-family: Helvetica Light;
-        src: url("HelvNeueLightforIBM.otf");
+        src: url("fonts/HelvNeueLightforIBM.otf");
     }
     @font-face {
         font-family: Droid Sans Bold;
-        src: url("DroidSans-Bold.ttf");
+        src: url("fonts/DroidSans-Bold.ttf");
     }
     @font-face {
         font-family: Droid Sans;
-        src: url("DroidSans.ttf");
+        src: url("fonts/DroidSans.ttf");
     }
     @font-face {
         font-family: Lato Bold;
-        src: url("Lato-Bold.ttf");
+        src: url("fonts/Lato-Bold.ttf");
     }
     @font-face {
         font-family: Lato Regular;
-        src: url("Lato-Regular.ttf");
+        src: url("fonts/Lato-Regular.ttf");
     }
     @font-face {
         font-family: Lato Light;
-        src: url("Lato-Light.ttf");
+        src: url("fonts/Lato-Light.ttf");
     }
 
 
@@ -52,7 +52,7 @@
 For easy font-adding
     @font-face {
         font-family:;
-        src: url("");
+        src: url("fonts/");
     }
 */
     
