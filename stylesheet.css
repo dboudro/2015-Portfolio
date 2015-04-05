@@ -82,7 +82,7 @@ For easy font-adding
     }
     /*/CH3/////////////////////////// ABOUT ME //////////////////////////////*/
     #above-fold-container {
-        height: 100vh;
+        height: 70vh;
         width: 100vw;
         border: 0px solid yellow;
     }
@@ -99,64 +99,34 @@ For easy font-adding
         display: table;
     }
     
-    #about-me {
+    .about-me {
         font-family: museo-sans;
         font-weight: 300;
         font-size: 1.6em;
-        padding: 3vh 25.5vw 0vh 25.5vw;
-        text-align: center;
+        padding: 3vh 25vw 0vh 25vw;
+/*        text-align: center;*/
     }
-    /*/CH4///////////////////////// WHERE I LEARN ////////////////////////////*/
-        /* could use improvement */
-.where-list {
-        display: inline-block;
-        padding: 0vh 25.5vw 6vh 25.5vw;
-        height: 50px;
-        margin: 0 auto;
-        border: 0px solid yellow;
-    }
-    .where-list li {
-        font-family: museo-slab;
-        font-weight: 300;
-        display: inline-block;
-        list-style: none;
-        float: left;
-        text-align: center;
-        width: calc(15vw - 25px);
-        margin-left: 25px;
-        margin-top: 3vh;
-        padding-top: 1.1vw;
-        padding-bottom: 1vw;
-        color:  #5AAAFA;
-        border: 1.5px solid #5AAAFA;
-        border-radius: 0px;
 
-    }
-    .where-list li:hover {
-        background-color:  #5AAAFA;
-        color: white;
-        cursor: pointer;
-    }
-    
-    /* coloring for where links */
-    #where-bard {
-    }
-    #where-NEU {
-    }
-    #where-IBM {
-    }
     /*/CH5/////////////////////////// MY WORK ///////////////////////////////*/ 
-    #work-title{
-        font-family: Helvetica Bold;
-        font-size: 2em;
-        padding-top: 25vh;
-        text-align: center;
-    }
     #below-fold-container {
+        background-color: #121212;
+        width: 100vw;
+        height: 110vh;
     }
-    #work-list {
+    #work-row1-container {
+        height: 470px;
+        display: block;
+        padding: 0 10vw;
+        border: 0px solid lime;
     }
-    #work-list li {
+    #work-row1-container div {
+        height: 450px;
+        width: 24vw;
+/*        background-color: #4178BE;*/
+        border: 1px solid white;
+        float: left;
+        margin: 0 1vw;
+            
     }
     
     #work-item {
