@@ -34,6 +34,18 @@
         font-family: Droid Sans;
         src: url("DroidSans.ttf");
     }
+    @font-face {
+        font-family: Lato Bold;
+        src: url("Lato-Bold.ttf");
+    }
+    @font-face {
+        font-family: Lato Regular;
+        src: url("Lato-Regular.ttf");
+    }
+    @font-face {
+        font-family: Lato Light;
+        src: url("Lato-Light.ttf");
+    }
 
 
 /*
@@ -96,7 +108,7 @@ For easy font-adding
         border: 0px solid yellow;
     }
     .where-list li {
-        font-family: Droid Sans Bold;
+        font-family: Lato Regular;
         display: inline-block;
         list-style: none;
         float: left;
@@ -106,26 +118,23 @@ For easy font-adding
         margin-top: 3vh;
         padding-top: 1.1vw;
         padding-bottom: 1vw;
-        color: #5AAAFA;
-        border: 1px solid #5AAAFA;
+        color: #00B4A0;
+        border: 1.5px solid #00B4A0;
+        border-radius: 0px;
 
     }
     .where-list li:hover {
-        background-color: #5AAAFA;
+        background-color: #00B4A0;
         color: white;
         cursor: pointer;
     }
+    
     /* coloring for work links */
     #work-bard {
     }
     #work-NEU {
     }
     #work-IBM {
-    }
-    #work-viz {
-        margin-left: calc(8vw + 25px);
-    }
-    #work-next {
     }
     /*/CH5/////////////////////////// MY WORK ///////////////////////////////*/ 
     #work-title{
