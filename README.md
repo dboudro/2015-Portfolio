@@ -1,7 +1,7 @@
 #Design Process
 
 
-*These are my process notes for developing my portfolio.*
+*These are my process notes for designing * developing this portfolio.*
 
 ----------- 
 

@@ -1,13 +1,13 @@
 
     
-    /**
- - Table of Contents -
+
+/* Table of Contents 
  * CH1 - Typography
  * CH2 - Abstractions & Visual Language
  * CH3 - About Me
  * CH4 - Where I work
  * CH5 - My Work
-**/
+* * * * * * * * * * * * * * * * * * * */
 
     /*/CH1////////////////////////// TYPOGRAPHY /////////////////////////////*/ 
     @font-face {
@@ -28,9 +28,7 @@
     }
     
     /*/CH2////////////////////// GLOBALS & VISUAL LANGUAGE ////////////////////*/
-/* Fill in with abstractions after I know what is used multiple times and therefore can be abstracted
-list: h1
-*/
+/* Fill in with abstractions */
 
     body {
         background-color: black;
