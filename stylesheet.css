@@ -71,28 +71,31 @@
     }
     /*/CH4///////////////////////// WHERE I WORK ////////////////////////////*/
         /* could use improvement */
-    #where-list {
+.where-list {
         display: inline-block;
-        padding: 3vh 25.5vw 6vh 25.5vw;
-        height: 50px;
+        padding: 0vh 25.5vw 6vh 25.5vw;
+        height: 150px;
         margin: 0 auto;
         border: 0px solid yellow;
     }
-    #where-list li {
+    .where-list li {
         font-family: Helvetica Roman;
         display: inline-block;
         list-style: none;
         float: left;
         text-align: center;
         width: calc(15vw - 25px);
-/*      height: calc(6vw - 9px);*/
+        margin-left: 25px;
+        margin-top: 3vh;
         padding-top: 1.1vw;
         padding-bottom: 1vw;
+
+
         color: #5AAAFA;
         border: 1px solid #5AAAFA;
-        margin-left: 26px;
+
     }
-    #where-list li:hover {
+    .where-list li:hover {
         background-color: #5AAAFA;
         color: black;
         cursor: pointer;
@@ -103,6 +106,11 @@
     #work-NEU {
     }
     #work-IBM {
+    }
+    #work-viz {
+        margin-left: calc(8vw + 25px);
+    }
+    #work-next {
     }
     /*/CH5/////////////////////////// MY WORK ///////////////////////////////*/ 
     #work-title{
