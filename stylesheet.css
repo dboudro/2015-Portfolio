@@ -108,7 +108,8 @@ For easy font-adding
         border: 0px solid yellow;
     }
     .where-list li {
-        font-family: Helvetica Roman;
+        font-family: museo-slab;
+        font-weight: 700;
         display: inline-block;
         list-style: none;
         float: left;
