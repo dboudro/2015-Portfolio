@@ -1,0 +1,83 @@
+<style>
+    
+    /**
+ - Table of Contents -
+ * CH1 - Resets
+ * CH2 - Typography
+ * CH3 - Globals & Visual Language
+ * CH4 - About Me
+ * CH5 - Where I work
+ * CH6 - My Work
+**/
+
+/* red #FFA5B4 green #C8F08F blue #C0E6FF */
+
+    /*/CH1//////////////////////////// RESETS ///////////////////////////////*/ 
+* {
+    margin: none;
+    }
+    /*/CH2////////////////////////// TYPOGRAPHY /////////////////////////////*/ 
+    @font-face {
+            font-family: Helvetica Bold;
+            src: url("HelvNeueBoldforIBM.otf");
+    }
+      @font-face {
+            font-family: Helvetica Medium;
+            src: url("HelvNeueMediumforIBM.otf");
+    }
+      @font-face {
+            font-family: Helvetica Roman;
+            src: url("HelvNeueRomanforIBM.otf");
+    }
+      @font-face {
+            font-family: Helvetica Light;
+            src: url("HelvNeueLightforIBM.otf");
+    }
+    
+    /*/CH3////////////////////// GLOBALS & VISUAL LANGUAGE ////////////////////*/
+    body {
+        background-color: black;
+        color: white;
+    }
+    h1 {
+        font-family: Helvetica Bold;
+        font-size: 3em;
+        display: table;
+        margin: 0 auto;
+        border: 0px solid red;
+    }
+    h2 {
+        font-family: Helvetica Roman;
+        font-size: 1.2em;
+        display: table;
+        margin: 0 auto;
+        border: 0px solid red;
+    }
+    li {
+        list-style: none;
+        float: left;
+    }
+    /*/CH4/////////////////////////// ABOUT ME //////////////////////////////*/
+    #above-fold-container {
+    }
+    #about-me {
+    }
+    /*/CH5///////////////////////// WHERE I WORK ////////////////////////////*/
+    #where-list {
+    }
+    #where-list li {
+    }
+    .where-item {
+    }
+    /*/CH6/////////////////////////// MY WORK ///////////////////////////////*/ 
+    #below-fold-container {
+    }
+    #work-list {
+    }
+    #work-list li {
+    }
+    
+    #work-item {
+    }
+    
+    </style>
