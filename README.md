@@ -60,7 +60,6 @@ design & code, tech, sleek, info, *concrete, data is beautiful, polished, flat, 
 * good UX (intuitive interactions)
 * visual design (branding)
 * Information Arch
-
 #Site Content
 
 
@@ -162,3 +161,7 @@ o instead of responsive... full mobile version
 o more original concept to communicate my brand (value)
 o design process on homepage
 o replace CSS with Sass
+o User Testing
+    -Real life user testing
+    -Google Analytics
+    -Heatmap

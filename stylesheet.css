@@ -1,75 +1,118 @@
-<style>
+
     
     /**
  - Table of Contents -
- * CH1 - Resets
- * CH2 - Typography
- * CH3 - Globals & Visual Language
- * CH4 - About Me
- * CH5 - Where I work
- * CH6 - My Work
+ * CH1 - Typography
+ * CH2 - Abstractions & Visual Language
+ * CH3 - About Me
+ * CH4 - Where I work
+ * CH5 - My Work
 **/
 
-/* red #FFA5B4 green #C8F08F blue #C0E6FF */
-
-    /*/CH1//////////////////////////// RESETS ///////////////////////////////*/ 
-* {
-    margin: none;
-    }
-    /*/CH2////////////////////////// TYPOGRAPHY /////////////////////////////*/ 
+    /*/CH1////////////////////////// TYPOGRAPHY /////////////////////////////*/ 
     @font-face {
-            font-family: Helvetica Bold;
-            src: url("HelvNeueBoldforIBM.otf");
+        font-family: Helvetica Bold;
+         src: url("HelvNeueBoldforIBM.otf");
     }
-      @font-face {
-            font-family: Helvetica Medium;
-            src: url("HelvNeueMediumforIBM.otf");
+    @font-face {
+        font-family: Helvetica Medium;
+        src: url("HelvNeueMediumforIBM.otf");
     }
-      @font-face {
-            font-family: Helvetica Roman;
-            src: url("HelvNeueRomanforIBM.otf");
+    @font-face {
+        font-family: Helvetica Roman;
+        src: url("HelvNeueRomanforIBM.otf");
     }
-      @font-face {
-            font-family: Helvetica Light;
-            src: url("HelvNeueLightforIBM.otf");
+    @font-face {
+        font-family: Helvetica Light;
+        src: url("HelvNeueLightforIBM.otf");
     }
     
-    /*/CH3////////////////////// GLOBALS & VISUAL LANGUAGE ////////////////////*/
+    /*/CH2////////////////////// GLOBALS & VISUAL LANGUAGE ////////////////////*/
+/* Fill in with abstractions after I know what is used multiple times and therefore can be abstracted
+list: h1
+*/
+
     body {
         background-color: black;
         color: white;
+        margin: 0 0;
     }
     h1 {
-        font-family: Helvetica Bold;
-        font-size: 3em;
-        display: table;
-        margin: 0 auto;
-        border: 0px solid red;
     }
     h2 {
-        font-family: Helvetica Roman;
-        font-size: 1.2em;
-        display: table;
-        margin: 0 auto;
-        border: 0px solid red;
     }
     li {
-        list-style: none;
-        float: left;
     }
-    /*/CH4/////////////////////////// ABOUT ME //////////////////////////////*/
+    .seperator {
+        width: 55px;
+        height: 1px;
+        background-color: white;
+        opacity: 1;
+        margin: 0 auto;
+    }
+    .seperator-full {
+    
+    }
+    /*/CH3/////////////////////////// ABOUT ME //////////////////////////////*/
     #above-fold-container {
+        height: 100vh;
+        width: 100vw;
+        border: 0px solid yellow;
+    }
+    #my-name {
+        font-family: Helvetica Medium;
+        font-size: 1.8em;
+        padding: 20vh 25.5vw 0vh 25.5vw;
+        text-align: center;
     }
     #about-me {
+        font-family: Helvetica Light;
+        font-size: 1.6em;
+        padding: 3vh 25.5vw 0vh 25.5vw;
+        text-align: center;
     }
-    /*/CH5///////////////////////// WHERE I WORK ////////////////////////////*/
+    /*/CH4///////////////////////// WHERE I WORK ////////////////////////////*/
+        /* could use improvement */
     #where-list {
+        display: inline-block;
+        padding: 3vh 25.5vw 6vh 25.5vw;
+        height: 50px;
+        margin: 0 auto;
+        border: 0px solid yellow;
     }
     #where-list li {
+        font-family: Helvetica Roman;
+        display: inline-block;
+        list-style: none;
+        float: left;
+        text-align: center;
+        width: calc(15vw - 25px);
+/*      height: calc(6vw - 9px);*/
+        padding-top: 1.1vw;
+        padding-bottom: 1vw;
+        color: #5AAAFA;
+        border: 1px solid #5AAAFA;
+        margin-left: 26px;
     }
-    .where-item {
+    #where-list li:hover {
+        background-color: #5AAAFA;
+        color: black;
+        cursor: pointer;
     }
-    /*/CH6/////////////////////////// MY WORK ///////////////////////////////*/ 
+    /* coloring for work links */
+    #work-bard {
+    }
+    #work-NEU {
+    }
+    #work-IBM {
+    }
+    /*/CH5/////////////////////////// MY WORK ///////////////////////////////*/ 
+    #work-title{
+        font-family: Helvetica Bold;
+        font-size: 2em;
+        padding-top: 25vh;
+        text-align: center;
+    }
     #below-fold-container {
     }
     #work-list {
@@ -80,4 +123,3 @@
     #work-item {
     }
     
-    </style>
