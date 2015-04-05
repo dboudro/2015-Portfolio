@@ -41,10 +41,10 @@ which leads to... features
 
 ##Features
 
-short intro   
-work pieces 
-process pages                 
-connect icons @ bottom    
+* short intro   
+* work pieces 
+* process pages                 
+* connect icons @ bottom    
 
 ##Branding
 
@@ -115,16 +115,6 @@ personas: newbie, pro
 >sponsor-project
     -Interdisciplinary collaboration, design thinking, development
     
-###SVG Animation
-
-
-###HSL Colorscale
-
-tag: development
-
-###Staples
-
-
 ## About Me
 design & code
 
@@ -141,7 +131,7 @@ design thinking and FeD
   team driven, x design & code, x NEU IBM
 user focused design
 
-## Ideas
+##Ideas
 
 -tags for projects (Front Dev, design research, etc)
 -highlights for key words in about me
@@ -149,7 +139,7 @@ user focused design
 - Personal life?  (meditation)
 - writing work-items? (communicate Bard value)
 
-#Versions
+##Versions
 **0.8**
 -over the fold done
 o missing work items & connect
