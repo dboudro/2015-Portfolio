@@ -98,7 +98,7 @@ For easy font-adding
         padding: 3vh 26vw 0vh 26vw;
         text-align: center;
     }
-    /*/CH4///////////////////////// WHERE I WORK ////////////////////////////*/
+    /*/CH4//////////////////////// WHERE I LEARN ////////////////////////////*/
         /* could use improvement */
 .where-list {
         display: inline-block;
@@ -119,9 +119,8 @@ For easy font-adding
         padding-top: 1.1vw;
         padding-bottom: 1vw;
         color:  #5AAAFA;
-        border: 1.5px solid  #5AAAFA;
+        border: 1.5px solid  #2B4A6F;
         border-radius: 0px;
-
     }
     .where-list li:hover {
         background-color:  #5AAAFA;
@@ -129,12 +128,21 @@ For easy font-adding
         cursor: pointer;
     }
     
-    /* coloring for work links */
-    #work-bard {
+    /* coloring for where links */
+    #where-bard {
+        background-color: #226764;
+        border: 1.5px solid #226764;
+        color: white;
+        
     }
-    #work-NEU {
+    #where-NEU {
+        background-color: #2B4A6F;
+        color: white;
     }
-    #work-IBM {
+    #where-IBM {
+        background-color: #297B48;
+        border: 1.5px solid #297B48;
+        color: white
     }
     /*/CH5/////////////////////////// MY WORK ///////////////////////////////*/ 
     #work-title{

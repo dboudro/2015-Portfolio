@@ -51,7 +51,11 @@ which leads to... features
 wordcloud: 
 
 ```
-design & code, tech, sleek, info, *concrete, data is beautiful, polished, flat, straight, beautiful, nerdy, 
+design & code, tech, sleek, info, *concrete, data is beautiful, polished, flat, straight, beautiful, 
+```
+
+```
+emotions: intelligence, creativity, modern, passion, dedicated, mindful, 
 ```
 
 ##Quality assurance
