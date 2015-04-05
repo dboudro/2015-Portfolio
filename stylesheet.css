@@ -93,7 +93,8 @@ For easy font-adding
         text-align: center;
     }
     #about-me {
-        font-family: Helvetica Light;
+        font-family: museo-sans;
+        font-weight: 300;
         font-size: 1.6em;
         padding: 3vh 25.5vw 0vh 25.5vw;
         text-align: center;
@@ -109,7 +110,7 @@ For easy font-adding
     }
     .where-list li {
         font-family: museo-slab;
-        font-weight: 700;
+        font-weight: 300;
         display: inline-block;
         list-style: none;
         float: left;
