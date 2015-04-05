@@ -87,8 +87,8 @@ For easy font-adding
         border: 0px solid yellow;
     }
     #my-name {
-        font-family: Helvetica Medium;
-        font-size: 1.8em;
+        font-family: museo-slab;
+        font-size: 2em;
         padding: 20vh 25.5vw 0vh 25.5vw;
         text-align: center;
     }
