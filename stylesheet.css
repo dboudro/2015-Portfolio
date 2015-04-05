@@ -95,20 +95,20 @@ For easy font-adding
     #about-me {
         font-family: Helvetica Light;
         font-size: 1.6em;
-        padding: 3vh 26vw 0vh 26vw;
+        padding: 3vh 25.5vw 0vh 25.5vw;
         text-align: center;
     }
-    /*/CH4//////////////////////// WHERE I LEARN ////////////////////////////*/
+    /*/CH4///////////////////////// WHERE I LEARN ////////////////////////////*/
         /* could use improvement */
 .where-list {
         display: inline-block;
         padding: 0vh 25.5vw 6vh 25.5vw;
-        height: 150px;
+        height: 50px;
         margin: 0 auto;
         border: 0px solid yellow;
     }
     .where-list li {
-        font-family: Lato Regular;
+        font-family: Helvetica Roman;
         display: inline-block;
         list-style: none;
         float: left;
@@ -119,8 +119,9 @@ For easy font-adding
         padding-top: 1.1vw;
         padding-bottom: 1vw;
         color:  #5AAAFA;
-        border: 1.5px solid  #2B4A6F;
+        border: 1.5px solid #5AAAFA;
         border-radius: 0px;
+
     }
     .where-list li:hover {
         background-color:  #5AAAFA;
@@ -130,19 +131,10 @@ For easy font-adding
     
     /* coloring for where links */
     #where-bard {
-        background-color: #226764;
-        border: 1.5px solid #226764;
-        color: white;
-        
     }
     #where-NEU {
-        background-color: #2B4A6F;
-        color: white;
     }
     #where-IBM {
-        background-color: #297B48;
-        border: 1.5px solid #297B48;
-        color: white
     }
     /*/CH5/////////////////////////// MY WORK ///////////////////////////////*/ 
     #work-title{

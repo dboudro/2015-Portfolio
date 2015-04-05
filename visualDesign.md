@@ -1,0 +1,1 @@
+shape, color, materials, finish, typography and composition 
