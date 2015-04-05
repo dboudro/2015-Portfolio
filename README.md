@@ -69,13 +69,29 @@ design & code, tech, sleek, info, *concrete, data is beautiful, polished, flat, 
 ----------- 
 
 ## full project-list
-* hsl color scale
-* svg animation
-* visualDB
-* HackTV
-* Baskets.io
-* IBM
-* staples
+* hsl color scale [javascript, data viz]
+* svg animation   [SVG, open-source, documenting processchanged what was possible on the internet]
+* visualDB        [visual design, MV* architecture, AJAX, design process, web-apps, routing, Angular.js, visual to show]
+* HackTV          [Team collaboration, changes the way people code, Angular, Node, MV* frameworks]
+    prove: Github, google attention, yhack]
+* Baskets.io      [d3, coffeescript, big-data, data visualization, make humans more productive]
+    prove: Hackbeanpot
+* IBM- ODC         not primary concern
+* IBM - PI          [team collaboration, design process, design research, data preperation, market research, user testing, communication (presentation)
+* IBM - PI+         [team collaboration, design process, data visualization, IA, visual design, essnce--> product]
+    prove: patent, real team
+* IBM - Query
+* Staples - Wiki
+* Staples - Requestor
+* Dylan.com         [help humans be better, solve a real problem, design process]
+
+projects that: have an impressive result. a well-documented process. I learned a lot from.
+
+**Chosen Projects** (for now): 
+* SVG animation
+* Query 
+* D3.js [hsl, colorChooser, first graph, baskets]
+
 
 ##Process Pages
 
@@ -120,6 +136,7 @@ design mission satement
 empathetic designer & dedicated developer?
 student at NEU
 FeD @ IBM
+meditator @ 
 design thinking and FeD
   team driven, x design & code, x NEU IBM
 user focused design
@@ -128,12 +145,20 @@ user focused design
 
 -tags for projects (Front Dev, design research, etc)
 -highlights for key words in about me
+- section for ideas and their value
+- Personal life?  (meditation)
+- writing work-items? (communicate Bard value)
 
+#Versions
+**0.9**
+o missing contact / connect / social buttons
 
+*These features were omitted due to time-constraints but are regarded as highly important*
+**1.1**
+o Project Pages
 
-#Future Versions
-*The following had to be sacrificed because of the time constraint*
+**Other Important Features**
 o instead of responsive... full mobile version
-o replace CSS with Sass
 o more original concept to communicate my brand (value)
 o design process on homepage
+o replace CSS with Sass
