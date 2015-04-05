@@ -92,6 +92,13 @@ For easy font-adding
         padding: 20vh 25.5vw 0vh 25.5vw;
         text-align: center;
     }
+    #logo {
+        margin: 20vh auto 2vh auto;
+        width: 80px;
+        height: 51px;
+        display: table;
+    }
+    
     #about-me {
         font-family: museo-sans;
         font-weight: 300;
