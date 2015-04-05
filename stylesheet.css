@@ -118,13 +118,13 @@ For easy font-adding
         margin-top: 3vh;
         padding-top: 1.1vw;
         padding-bottom: 1vw;
-        color: #00B4A0;
-        border: 1.5px solid #00B4A0;
+        color:  #5AAAFA;
+        border: 1.5px solid  #5AAAFA;
         border-radius: 0px;
 
     }
     .where-list li:hover {
-        background-color: #00B4A0;
+        background-color:  #5AAAFA;
         color: white;
         cursor: pointer;
     }

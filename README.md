@@ -16,9 +16,10 @@
 
 
 *future user goals* 
-2. A user interested can spend lots of time learning about my design process.
 
-3. A designer or coder can immediately understand the value of the way I presented the essence of my work/personal brand.
+1. A user interested can spend lots of time learning about my design process.
+
+2. A designer or coder can immediately understand the value of the way I presented the essence of my work/personal brand.
 
 ##Schedule
 
@@ -26,24 +27,24 @@
 * **Wednesday** *2h* [design wireframe]
 * **Thursday** *2h* [wireframe, write about me's]
 * **Friday** *2h* [step back:grid analysis, code wireframe]
-* **Saturday** *8h* [code new wireframe, brand analysis, visual design, cleanup design, refactor code, interaction]
+* **Saturday** *a lot* [code new wireframe, brand analysis, visual design, cleanup design, refactor code, interaction]
 
 
 ##Most Important Content
 
+* about me (personal brand) 
 * I show my work or experience 
 * the process of creation is communicated
-* about me (personal brand) 
 * social connect
 
 which leads to... features
 
 ##Features
 
-short intro               
-work pieces                
+short intro   
+work pieces 
+process pages                 
 connect icons @ bottom    
-process pages  
 
 ##Branding
 
