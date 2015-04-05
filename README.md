@@ -149,6 +149,9 @@ user focused design
 - writing work-items? (communicate Bard value)
 
 #Versions
+**0.8**
+-over the fold done
+o missing work items & connect
 **0.9**
 o missing contact / connect / social buttons
 
