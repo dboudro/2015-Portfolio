@@ -103,7 +103,7 @@ For easy font-adding
         font-family: museo-sans;
         font-weight: 300;
         font-size: 1.6em;
-        padding: 3vh 25vw 0vh 25vw;
+        padding: 3vh 26.5vw 0vh 26.5vw;
         text-align: center;
     }
 
@@ -134,8 +134,8 @@ For easy font-adding
 
     }
     .where-list li:hover {
-        background-color:  #5AAAFA;
-        color: white;
+        background-color:  #41D6C3;
+        color: black;
         cursor: pointer;
     }
     
