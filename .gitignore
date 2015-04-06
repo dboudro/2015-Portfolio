@@ -4,6 +4,7 @@
 *.TTF
 essays.md
 *.bmpr
-learning/
 .DS_Store
 *.psd
+learning/
+ps/
