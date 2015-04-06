@@ -162,12 +162,14 @@ For easy font-adding
         height: 56vh;
         width: 24vw;
 /*        background-color: #4178BE;*/
-        border: 0px solid white;
-        float: left;
-        margin: 0 1vw;
-            
+        border: 1px solid white;
+        display: inline-block;
+        margin: 0 1vw;      
     }
-    
+    #maelstrom {
+        height: 55vh;
+        width 23vw;
+    }
     #work-item {
     }
     
