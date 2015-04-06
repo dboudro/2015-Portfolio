@@ -107,9 +107,48 @@ For easy font-adding
 /*        text-align: center;*/
     }
 
+ /*/CH4///////////////////////// WHERE I LEARN ////////////////////////////*/
+        /* could use improvement */
+.where-list {
+        display: inline-block;
+        padding: 0vh 25.5vw 6vh 25.5vw;
+        height: 50px;
+        margin: 0 auto;
+        border: 0px solid yellow;
+    }
+    .where-list li {
+        font-family: museo-slab;
+        font-weight: 300;
+        display: inline-block;
+        list-style: none;
+        float: left;
+        text-align: center;
+        width: calc(15vw - 25px);
+        margin-left: 25px;
+        margin-top: 3vh;
+        padding-top: 1.1vw;
+        padding-bottom: 1vw;
+        color:  #41D6C3;
+        border: 1.5px solid #41D6C3;
+        border-radius: 0px;
+
+    }
+    .where-list li:hover {
+        background-color:  #5AAAFA;
+        color: white;
+        cursor: pointer;
+    }
+    
+    /* coloring for where links */
+    #where-bard {
+    }
+    #where-NEU {
+    }
+    #where-IBM {
+    }
+
     /*/CH5/////////////////////////// MY WORK ///////////////////////////////*/ 
     #below-fold-container {
-        background-color: #121212;
         width: 100vw;
         height: 110vh;
     }
