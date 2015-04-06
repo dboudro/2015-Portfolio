@@ -93,7 +93,7 @@ For easy font-adding
         text-align: center;
     }
     #logo {
-        margin: 20vh auto 2vh auto;
+        margin: 20vh auto 4vh auto;
         width: 80px;
         height: 51px;
         display: table;
@@ -104,7 +104,7 @@ For easy font-adding
         font-weight: 300;
         font-size: 1.6em;
         padding: 3vh 25vw 0vh 25vw;
-/*        text-align: center;*/
+        text-align: center;
     }
 
  /*/CH4///////////////////////// WHERE I LEARN ////////////////////////////*/
@@ -159,10 +159,10 @@ For easy font-adding
         border: 0px solid lime;
     }
     #work-row1-container div {
-        height: 450px;
+        height: 56vh;
         width: 24vw;
 /*        background-color: #4178BE;*/
-        border: 1px solid white;
+        border: 0px solid white;
         float: left;
         margin: 0 1vw;
             
