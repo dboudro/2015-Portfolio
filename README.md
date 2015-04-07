@@ -9,7 +9,7 @@
 
 
 ##Goals
-*Project Management*: Design my portfolio in 1 week.
+*Project Management*: Design my portfolio in 2 weeks.
 
 *User focused*: A recruiter can quickly & enjoyably learn about my professional work.
     
@@ -28,7 +28,14 @@
 * **Thursday** *2h* [wireframe, write about me's]
 * **Friday** *2h* [step back:grid analysis, code wireframe]
 * **Saturday** *a lot* [code new wireframe, brand analysis, visual design, cleanup design, refactor code, interaction]
-
+* **Sunday** 
+* **Monday**
+* **Tuesday**
+* **Wednesday**
+* **Thursday**
+* **Friday**
+* **Saturday**
+* **Sunday** [version 1.0 release]
 
 ##Most Important Content
 
