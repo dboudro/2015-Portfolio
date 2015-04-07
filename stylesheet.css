@@ -81,7 +81,7 @@ For easy font-adding
     }
     /*/CH3/////////////////////////// ABOUT ME //////////////////////////////*/
     #above-fold-container {
-        height: 70vh;
+        height: 75vh;
         width: 100vw;
         border: 0px solid yellow;
     }
@@ -169,6 +169,9 @@ For easy font-adding
         height: 55vh;
         width 23vw;
     }
-    #work-item {
+    #d3 {
+        height: 55vh;
+        width: 23vw;
     }
+    
     
