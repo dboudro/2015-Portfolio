@@ -1,7 +1,7 @@
 #Design Process
 
 
-*These are my process notes for designing * developing this portfolio.*
+*These are my process notes for designing & developing this portfolio.*
 
 ----------- 
 
@@ -27,15 +27,15 @@
 * **Wednesday** *2h* [design wireframe]
 * **Thursday** *2h* [wireframe, write about me's]
 * **Friday** *2h* [step back:grid analysis, code wireframe]
-* **Saturday** *a lot* [code new wireframe, brand analysis, visual design, cleanup design, refactor code, interaction]
+* **Saturday** *a lot* [design new wireframe, code new wireframe, brand analysis, visual design, continual visual cleanup, refactoring code]
 * **Sunday** 
-* **Monday**
+* **Monday** *1hr* [Toy with work-items]
 * **Tuesday**
 * **Wednesday**
 * **Thursday**
-* **Friday**
-* **Saturday**
-* **Sunday** [version 1.0 release]
+* **Friday** [interactions UX, js]
+* **Saturday** [anticipatory oh shit I didn't finish time]
+* **Sunday** [document process, version 1.0 release]
 
 ##Most Important Content
 
