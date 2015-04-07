@@ -6,8 +6,6 @@
 ----------- 
 
 
-
-
 ##Goals
 *Project Management*: Design my portfolio in 2 weeks.
 
@@ -72,6 +70,7 @@ emotions: intelligence, creativity, modern, passion, dedicated, mindful,
 * good UX (intuitive interactions)
 * visual design (branding)
 * Information Arch
+
 #Site Content
 
 
