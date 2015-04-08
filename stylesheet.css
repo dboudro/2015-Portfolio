@@ -156,22 +156,24 @@ For easy font-adding
         display: block;
         padding: 0 10vw;
         border: 0px solid lime;
+        
     }
-    #work-row1-container div {
-        height: 56vh;
-        width: 24vw;
-/*        background-color: #4178BE;*/
-        border: 1px solid white;
-        display: inline-block;
-        margin: 0 1vw;      
-    }
-    #maelstrom {
+    #work-row1-container img {
         height: 55vh;
         width 23vw;
+        padding-left: 3vw;
+        padding-bottom: 3vw;
     }
-    #d3 {
-        height: 55vh;
-        width: 23vw;
+    #work-row1-container img:hover {
+        opacity: .3;
+        cursor: pointer;
     }
+    #work-maelstrom {
+    }
+    #work-d3 {
+    }
+    #work-svg {
+    }
+    
     
     

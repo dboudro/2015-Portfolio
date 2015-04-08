@@ -100,7 +100,7 @@ projects that: have an impressive result. a well-documented process. I learned a
 **Chosen Projects** (for now): 
 * SVG animation
     -jqueryrain, others
-* Query 
+* Query  (IBM)
 * D3.js [hsl, colorChooser, first graph, baskets]
 
 
