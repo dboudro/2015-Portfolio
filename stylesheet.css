@@ -132,10 +132,12 @@ For easy font-adding
         border-radius: 0px;
 
     }
-    .where-list li:hover {
-        background-color:  #41D6C3;
-        color: black;
-        cursor: pointer;
+    .where-list li:hover span {
+    display: none;
+    }
+
+    .where-list li:hover:before {
+        content: "<i class=fa fa-eye></i>;"
     }
     
     /* coloring for where links */
