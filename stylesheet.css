@@ -109,8 +109,8 @@ For easy font-adding
  /*/CH4///////////////////////// WHERE I LEARN ////////////////////////////*/
         /* could use improvement */
 .where-list {
-        display: inline-block;
-        padding: 0vh 25.5vw 6vh 25.5vw;
+        display: table;
+        padding: 0vh 0vw 6vh 0vw;
         height: 50px;
         margin: 0 auto;
         border: 0px solid yellow;
