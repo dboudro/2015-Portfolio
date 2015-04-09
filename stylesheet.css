@@ -45,7 +45,10 @@
         font-family: Lato Light;
         src: url("fonts/Lato-Light.ttf");
     }
-
+    @font-face {
+        font-family: Font Awesome;
+        src: url("fonts/fontawesome-webfont.ttf");
+    }
 
 /*
 For easy font-adding
@@ -135,9 +138,18 @@ For easy font-adding
     .where-list li:hover span {
     display: none;
     }
+    .where-list li:hover {
+        color: black;
+        background-color: #41D6C3;
+        cursor: pointer;
+    }
 
     .where-list li:hover:before {
-        content: "<i class=fa fa-eye></i>;"
+        font-family: Font Awesome;
+        font-size: 1.2em;
+        content: "\f06e";
+
+
     }
     
     /* coloring for where links */
