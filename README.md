@@ -28,9 +28,9 @@
 * **Saturday** *a lot* [design new wireframe, code new wireframe, brand analysis, visual design, continual visual cleanup, refactoring code]
 * **Sunday** 
 * **Monday** *1hr* [Toy with work-items]
-* **Tuesday**
-* **Wednesday**
-* **Thursday**
+* **Tuesday** *1hr* [add all work-items]
+* **Wednesday** personal day
+* **Thursday** [my story, refactor code]
 * **Friday** [interactions UX, js]
 * **Saturday** [anticipatory oh shit I didn't finish time]
 * **Sunday** [document process, version 1.0 release]
