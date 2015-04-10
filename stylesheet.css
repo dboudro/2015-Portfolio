@@ -119,13 +119,13 @@ For easy font-adding
         border: 0px solid yellow;
     }
     .where-list li {
-        font-family: museo-slab;
+        font-family: Font Awesome;
         font-weight: 300;
         display: inline-block;
         list-style: none;
         float: left;
         text-align: center;
-        width: calc(15vw - 25px);
+        width: calc(3.5vw);
         margin-left: 25px;
         margin-top: 3vh;
         padding-top: 1.1vw;
@@ -145,9 +145,8 @@ For easy font-adding
     }
 
     .where-list li:hover:before {
-        font-family: Font Awesome;
         font-size: 1.2em;
-        content: "\f06e";
+        content: "\f007";
     }
     
     /* coloring for where links */
