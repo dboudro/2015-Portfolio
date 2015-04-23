@@ -1,3 +1,7 @@
+*.otf
+*.OTF
+*.TTF
+*.ttf
 essays.md
 *.bmpr
 .DS_Store

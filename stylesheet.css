@@ -1,6 +1,6 @@
     
 
-/* Table of Contents 
+/* StyleSheet Table of Contents 
  * CH1 - Typography
  * CH2 - Abstractions & Visual Language
  * CH3 - About Me
@@ -51,7 +51,7 @@
     }
 
 /*
-For easy font-adding
+For quick font-adding during development
     @font-face {
         font-family:;
         src: url("fonts/");
@@ -110,7 +110,7 @@ For easy font-adding
     }
 
  /*/CH4///////////////////////// WHERE I LEARN ////////////////////////////*/
-        /* could use improvement */
+        /* could use refactoring*/
 .where-list {
         display: table;
         padding: 0vh 0vw 6vh 0vw;
